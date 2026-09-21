@@ -16,14 +16,13 @@
 </p>
 
 <p align="center">
-  <a href="#overview">overview</a> ┬╖
-  <a href="#progress">progress</a> ┬╖
-  <a href="#technology">technology</a> ┬╖
-  <a href="#project-structure">project structure</a> ┬╖
-  <a href="#documentation">documentation</a> ┬╖
+  <a href="#overview">overview</a> ·
+  <a href="#progress">progress</a> ·
+  <a href="#technology">technology</a> ·
+  <a href="#project-structure">project structure</a> ·
+  <a href="#documentation">documentation</a> ·
   <a href="#roadmap">roadmap</a>
 </p>
-
 ---
 
 <h2 align="center">overview</h2>
@@ -42,13 +41,13 @@ The project covers data ingestion, cleaning and validation, SQLite-based data st
 
 | Phase | Status |
 |---|---|
-| Data ingestion | Γ£ô |
-| Data cleaning & SQL database | Γ£ô |
-| Exploratory Data Analysis | ΓåÆ |
-| Fund performance analytics | Γùï |
-| Interactive dashboard | Γùï |
-| Advanced analytics | Γùï |
-| Final documentation & delivery | Γùï |
+| Data ingestion | ✓ |
+| Data cleaning & SQL database | ✓ |
+| Exploratory Data Analysis | → |
+| Fund performance analytics | ○ |
+| Interactive dashboard | ○ |
+| Advanced analytics | ○ |
+| Final documentation & delivery | ○ |
 
 The detailed implementation progress is maintained in [`project_journey.md`](project_journey.md).
 
@@ -176,4 +175,4 @@ Planned analytics include return and CAGR calculations, risk metrics, benchmark 
 
 See you in the next phase.
 
-**ΓÇö aps**
+**— aps**
